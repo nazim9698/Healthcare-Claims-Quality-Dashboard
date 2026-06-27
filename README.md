@@ -99,6 +99,7 @@ CALCULATE(
 7. Which insurance type has the highest number of reviewed claims?
 8. What is the distribution of claims by AR status?
 9. Which claim details require operational attention?
+10.Which claims require follow-up based on AR Status?
 
 ---
 

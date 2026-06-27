@@ -1,5 +1,7 @@
 # Healthcare Claims Quality Dashboard
 
+Power BI | Healthcare | DAX | Data Visualization
+
 ## Project Overview
 
 This Power BI dashboard provides a high-level view of healthcare claim quality and claim review performance.
